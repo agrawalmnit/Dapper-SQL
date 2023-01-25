@@ -1,0 +1,20 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[User] (Table)
+       [dbo].[Delete] (Procedure)
+       [dbo].[Get] (Procedure)
+       [dbo].[GetAll] (Procedure)
+       [dbo].[Insert] (Procedure)
+       [dbo].[Update] (Procedure)
+
+** Supporting actions
