@@ -1,0 +1,6 @@
+C:\Users\IshansiAgrawal\Desktop\WebApplication9\UserDB\bin\Debug\UserDB.dacpac
+C:\Users\IshansiAgrawal\Desktop\WebApplication9\UserDB\bin\Debug\UserDB.dll
+C:\Users\IshansiAgrawal\Desktop\WebApplication9\UserDB\bin\Debug\UserDB.pdb
+C:\Users\IshansiAgrawal\Desktop\WebApplication9\UserDB\obj\Debug\UserDB.sqlproj.AssemblyReference.cache
+C:\Users\IshansiAgrawal\Desktop\WebApplication9\UserDB\obj\Debug\UserDB.dll
+C:\Users\IshansiAgrawal\Desktop\WebApplication9\UserDB\obj\Debug\UserDB.pdb
